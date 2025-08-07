@@ -1,2 +1,2 @@
-we has been learing about git-hub.
+we has been learning about git-hub.
 and also hands-on lab practice to create repository
